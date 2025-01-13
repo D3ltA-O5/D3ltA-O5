@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Howdy! I'm D3ltA_O5
 
-<!--
-**D3ltA-O5/D3ltA-O5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED**. If you're interested in SCP:SL plugins, feel free to check out my repositories below:
 
-Here are some ideas to get you started:
+## 📦 SCP:SL Plugins
+- [🔫 Infinite Ammo](https://github.com/D3ltA-O5/Infinite_Ammo): A plugin that provides players with infinite ammunition for endless battles.
+- [🎁 RoundStart Item Giver](https://github.com/D3ltA-O5/RoundStart_ItemGiver): Automatically gives items to players at the start of each round.
+- [🔥 RoundEnding Friendly Fire](https://github.com/D3ltA-O5/RoundEnding_FF): Enables friendly fire at the end of each round for added chaos and fun.
+- [💀 Suicide Command](https://github.com/D3ltA-O5/Suicide_Command): Adds `.suicide` and `.kill` commands for self-elimination during the game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Need Help?
+I can assist you with setting up an **SCP:SL Server** on your PC or dedicated server! Feel free to reach out for guidance.
+
+## 📬 Contact Me
+- **Discord:** `cyberco`
+
+---
+
+Enjoy exploring my plugins and enhancing your SCP:SL experience! 😊
