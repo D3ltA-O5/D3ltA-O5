@@ -1,4 +1,4 @@
-# 👋 Howdy! I'm D3ltA_O5
+# 🌟 Howdy! I'm D3ltA_O5
 
 I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED**. If you're interested in SCP:SL plugins, feel free to check out my repositories below:
 
@@ -14,3 +14,6 @@ I can assist you with setting up an **SCP:SL Server** on your PC or dedicated se
 ## 📬 Contact Me
 - **Discord:** `cyberco`
 
+---
+
+You can also offer me an idea for a plugin that is required for your project and maybe I will create it (。・ω・。)
