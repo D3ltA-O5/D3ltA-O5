@@ -8,6 +8,8 @@ I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED**
 - [🔥 RoundEnding Friendly Fire](https://github.com/D3ltA-O5/RoundEnding_FF): Enables friendly fire at the end of each round for added chaos and fun.
 - [💀 Suicide Command](https://github.com/D3ltA-O5/Suicide_Command): Adds `.suicide` and `.kill` commands for self-elimination during the game.
 
+Yes, I support and update these plugins
+
 ## 🛠️ Need Help?
 I can assist you with setting up an **SCP:SL Server** on your PC or dedicated server! Feel free to reach out for guidance.
 
