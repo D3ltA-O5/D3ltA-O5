@@ -14,6 +14,3 @@ I can assist you with setting up an **SCP:SL Server** on your PC or dedicated se
 ## 📬 Contact Me
 - **Discord:** `cyberco`
 
----
-
-Enjoy exploring my plugins and enhancing your SCP:SL experience! 😊
