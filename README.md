@@ -1,6 +1,6 @@
 # 🌟 Howdy! I'm D3ltA_O5
 
-I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED**. If you're interested in SCP:SL plugins, feel free to check out my repositories below:
+I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED** with ChatGPT. If you're interested in SCP:SL plugins, feel free to check out my repositories below:
 
 ## 📦 SCP:SL Plugins
 - [🔫 Infinite Ammo](https://github.com/D3ltA-O5/Infinite_Ammo): A plugin that provides players with infinite ammunition for endless battles.
