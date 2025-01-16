@@ -7,8 +7,9 @@ I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED**
 - [🎁 RoundStart Item Giver](https://github.com/D3ltA-O5/RoundStart_ItemGiver): Automatically gives items to players at the start of each round.
 - [🔥 RoundEnding Friendly Fire](https://github.com/D3ltA-O5/RoundEnding_FF): Enables friendly fire at the end of each round for added chaos and fun.
 - [💀 Suicide Command](https://github.com/D3ltA-O5/Suicide_Command): Adds `.suicide` and `.kill` commands for self-elimination during the game.
+- [🛡️ UltimateDonation](https://github.com/D3ltA-O5/Ultimate_Donation): A secure and flexible plugin for managing donor privileges with customizable roles, command limits, and restrictions.
 
-Yes, I support and update these plugins
+Yes, I support and update these plugins.
 
 ## 🛠️ Need Help?
 I can assist you with setting up an **SCP:SL Server** on your PC or dedicated server! Feel free to reach out for guidance.
@@ -18,4 +19,4 @@ I can assist you with setting up an **SCP:SL Server** on your PC or dedicated se
 
 ---
 
-You can also offer me an idea for a plugin that is required for your project and maybe I will create it (。・ω・。)
+You can also offer me an idea for a plugin that is required for your project, and maybe I will create it (。・ω・。)
