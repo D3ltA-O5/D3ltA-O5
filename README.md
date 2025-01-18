@@ -8,7 +8,7 @@ I'm currently developing plugins for **SCP: Secret Laboratory** using **EXILED**
 - [🔥 RoundEnding Friendly Fire](https://github.com/D3ltA-O5/RoundEnding_FF): Enables friendly fire at the end of each round for added chaos and fun.
 - [💀 Suicide Command](https://github.com/D3ltA-O5/Suicide_Command): Adds `.suicide` and `.kill` commands for self-elimination during the game.
 - [🛡️ UltimateDonation](https://github.com/D3ltA-O5/Ultimate_Donation): A secure and flexible plugin for managing donor privileges with customizable roles, command limits, and restrictions.
-- [📻 InfiniteRadio](https://github.com/D3ltA-O5/InfiniteRadio): Ensures radios never run out of battery, keeping them fully charged at all times.
+- [📻 InfiniteRadio](https://github.com/D3ltA-O5/Infinite_Radio): Ensures radios never run out of battery, keeping them fully charged at all times.
 
 Yes, I support and update these plugins.
 
